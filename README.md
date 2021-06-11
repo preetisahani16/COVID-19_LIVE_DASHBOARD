@@ -1,6 +1,6 @@
 # COVID-19_LIVE_DASHBOARD
 
-Coronavirus (COVID-19) live Dashboard with Data from API - HTML CSS JavaScript
+Coronavirus (COVID-19) live Dashboard with Data from API - HTML CSS JavaScript. <br />
 I have built a #COVID-19 Live DashBoard for #PEPHACK_2 which gives real time insights about COVID-19 status all over India and Worldwide. <br />
 The aim of this project is to keep people updated about the current status of the spread of the virus around the globe. <br />
 It contains all the info that one should know like symptoms,preventive measures, current news, CONFIRMED, RECOVERED and DEATH cases.
