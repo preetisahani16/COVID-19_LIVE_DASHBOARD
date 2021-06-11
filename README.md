@@ -11,8 +11,8 @@ It contains all the info that one should know like symptoms,preventive measures,
 
 2.Fetches covid19 stats data from #API api.covid19api.com.
 
-3.Added functionality to the switch/toggler to toggle between light and dark mode using javascript
-.
+3.Added functionality to the switch/toggler to toggle between light and dark mode using javascript.
+
 4.Users can download data CSV(Excel format),SVG file,PNG(Charts image) Formats.
 
 Tech Stack Used: HTML, CSS, Javascript, Covid API, ApexCharts.
